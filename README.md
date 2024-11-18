@@ -1,2 +1,2 @@
 # AWS-SAA-C03-Examples
-a codebas of all the aws codes used through 
+a codebase of all the aws codes used through 
